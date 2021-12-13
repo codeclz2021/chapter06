@@ -52,7 +52,6 @@ public class Server {
 			bw.write(msg);
 			bw.newLine();
 			bw.flush();
-			
 		}
 		
 		System.out.println("=============================");
